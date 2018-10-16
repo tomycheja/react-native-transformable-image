@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 import { Image } from 'react-native';
 import PropTypes from 'prop-types';
 
-import ViewTransformer from 'react-native-view-transformer';
+import ViewTransformer from 'react-native-view-transformer/library';
 
 let DEV = false;
 
